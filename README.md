@@ -10,7 +10,7 @@ I'm Muddasir Rafique, a dedicated Full Stack Developer deeply invested in buildi
 * 🚀  I'm currently working on [B2B Crop Scan Portal](http://business-portal.farmdar.pk/)
 * 🧠  I'm learning Go Language
 * 🤝  I'm open to collaborating on Precise Builder (Web and PWA) https://app.precisebuilder.com/login
-* ⚡  All of my projects are available at \*\*\[https://muddasir.dev/\](https://muddasir.dev/)
+* ⚡  All of my projects are available at \*\*\[https://muddasir.dev](https://muddasir.dev/)
 * ✉️  You can contact me at [writemuddasir@gmail,com](mailto:writemuddasir@gmail,com)
 
 
