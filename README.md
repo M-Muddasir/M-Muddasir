@@ -4,6 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
+<a href="https://www.github.com/M-Muddasir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/M-Muddasir?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" /></a>
+<a href="https://www.github.com/M-Muddasir" target="_blank" rel="noreferrer"><img
+src="https://komarev.com/ghpvc/?username=m-muddasir&label=Profile%20views&color=0e75b6&style=flat" /></a>
+
 I'm Muddasir Rafique, a dedicated Full Stack Developer deeply invested in building secure and user-centric web applications. My skillset mainly include JavaScript, TypeScript, React.js, Angular.js, MongoDB, Node.js and Express.js. I've led the development of projects such as a Campus Management System of my own university, Human Resource Management System and AlingerBase. My commitment to building robust backend systems along with intuitive and user-friendly Frontend systems knows no bounds. Beyond coding, my leadership role at Department of IT, GC University, Lahore have seen me contributing significantly to IT Landscape. Continuously sharpening my skills, I'm currently diving deep into Go Language for cross-platform development. Here are some quick highlights about me:
 
 * 🌍  I'm based in Pakistan
@@ -13,11 +18,6 @@ I'm Muddasir Rafique, a dedicated Full Stack Developer deeply invested in buildi
 * ⚡  All of my projects are available at [https://muddasir.dev](https://muddasir.dev/)
 * ✉️  You can contact me at [writemuddasir@gmail,com](mailto:writemuddasir@gmail.com)
 
-
-<a href="https://www.github.com/M-Muddasir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/M-Muddasir?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" /></a>
-<a href="https://www.github.com/M-Muddasir" target="_blank" rel="noreferrer"><img
-src="https://komarev.com/ghpvc/?username=m-muddasir&label=Profile%20views&color=0e75b6&style=flat" /></a>
 
 ### Skills
 
