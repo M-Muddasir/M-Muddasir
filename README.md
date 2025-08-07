@@ -1,42 +1,193 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muddasir Rafique
-========================================================================================================================================
+<div align="center">
 
-Full Stack Developer
---------------------
+# 👋 Hello, I'm Muhammad Muddasir Rafique ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<a href="https://www.github.com/M-Muddasir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/M-Muddasir?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" /></a>
-<a href="https://www.github.com/M-Muddasir" target="_blank" rel="noreferrer"><img
-src="https://komarev.com/ghpvc/?username=m-muddasir&label=Profile%20views&color=0e75b6&style=flat" /></a>
+### 🚀 Full Stack Developer | 💡 Tech Innovator | 🎯 Problem Solver
 
-I'm Muddasir Rafique, a dedicated Full Stack Developer deeply invested in building secure and user-centric web applications. My skillset mainly include JavaScript, TypeScript, React.js, Angular.js, MongoDB, Node.js and Express.js. I've led the development of projects such as a Campus Management System of my own university, Human Resource Management System and AlingerBase. My commitment to building robust backend systems along with intuitive and user-friendly Frontend systems knows no bounds. Beyond coding, my leadership role at Department of IT, GC University, Lahore have seen me contributing significantly to IT Landscape. Continuously sharpening my skills, I'm currently diving deep into Go Language for cross-platform development. Here are some quick highlights about me:
-
-* 🌍  I'm based in Pakistan
-* 🚀  I'm currently working on [B2B Crop Scan Portal](http://business-portal.farmdar.pk/)
-* 🧠  I'm learning Go Language
-* 🤝  I'm open to collaborating on Precise Builder (Web and PWA) https://app.precisebuilder.com/login
-* ⚡  All of my projects are available at [https://muddasir.dev](https://muddasir.dev/)
-* ✉️  You can contact me at [writemuddasir@gmail,com](mailto:writemuddasir@gmail.com)
-
-
-### Skills
-
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<p align="center">
+  <a href="https://muddasir.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-muddasir.dev-ff6b6b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:writemuddasir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-writemuddasir@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-muddasir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/M-Muddasir?logo=github&style=for-the-badge&color=4c1&labelColor=000" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=m-muddasir&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</p>
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/M-Muddasir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/m-muddasir/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 🎯 About Me
 
-<b>My GitHub Stats</b>
+> **Passionate Full Stack Developer** crafting secure, scalable, and user-centric web applications that make a difference.
 
-<a href="http://www.github.com/M-Muddasir"><img src="https://github-readme-stats.vercel.app/api?username=M-Muddasir&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="M-Muddasir's GitHub stats" /></a>
+I'm a dedicated technologist with a proven track record of leading complex projects from conception to deployment. My expertise spans the entire development stack, with a special focus on creating robust backend architectures and intuitive frontend experiences.
 
-<a href="http://www.github.com/M-Muddasir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Muddasir&stroke=ffffff&background=171717&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🌟 What Sets Me Apart
 
-<a href="https://github.com/M-Muddasir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Muddasir&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- **🏛️ Academic Leadership**: IT Department contributor at GC University, Lahore
+- **🏗️ Project Leadership**: Led development of Campus Management System, HR Management System, and AlingerBase
+- **🔄 Continuous Learning**: Currently mastering Go Language for cross-platform development
+- **🤝 Collaboration Ready**: Open to innovative projects and meaningful partnerships
+
+### 📍 Quick Facts
+
+```yaml
+Location: 🇵🇰 Pakistan
+Current Focus: B2B Crop Scan Portal Development
+Learning: Go Language & Cross-platform Development
+Collaboration: Precise Builder (Web & PWA)
+Portfolio: https://muddasir.dev
+Contact: writemuddasir@gmail.com
+```
+
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### ⚛️ Frontend Technologies
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
+### 🎨 Styling & UI Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+</p>
+
+### 🔧 Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text" />
+</p>
+
+</div>
+
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌾 [B2B Crop Scan Portal](http://business-portal.farmdar.pk/)
+**Agricultural Technology Platform** | *Currently Leading Development*
+
+> Revolutionizing crop analysis and agricultural decision-making through advanced scanning technology and data analytics.
+
+### 🏗️ [Precise Builder](https://app.precisebuilder.com/login)
+**Web & PWA Development Platform** | *Open for Collaboration*
+
+> Comprehensive building and project management solution with modern web technologies.
+
+### 🎓 Campus Management System
+**Educational Technology** | *GC University, Lahore*
+
+> Complete university management solution handling student records, course management, and administrative workflows.
+
+### 👥 Human Resource Management System
+**Enterprise Solution** | *Full Stack Development*
+
+> Streamlined HR operations with employee management, payroll, and performance tracking capabilities.
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-Muddasir&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Muddasir&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Muddasir&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=M-Muddasir&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Ready to collaborate on innovative projects? Let's build something amazing together!**
+
+<p>
+  <a href="https://www.linkedin.com/in/m-muddasir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/M-Muddasir" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:writemuddasir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://muddasir.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+### 💡 Open to:
+- 🚀 **Innovative Web Development Projects**
+- 🤝 **Technical Collaborations**
+- 💼 **Freelance Opportunities**
+- 🎯 **Mentoring & Knowledge Sharing**
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Star my repositories if you find them helpful!**
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
