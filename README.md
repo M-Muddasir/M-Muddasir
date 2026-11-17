@@ -218,13 +218,13 @@ Multi-floor indoor navigation using Apple's Indoor Mapping Data Format (IMDF). C
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-Muddasir&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Muddasir&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-Muddasir&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=M-Muddasir&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Muddasir&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Muddasir&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages" />
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=M-Muddasir&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=M-Muddasir&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -232,7 +232,7 @@ Multi-floor indoor navigation using Apple's Indoor Mapping Data Format (IMDF). C
 
 ## 🎓 Education & Certifications
 
-- **MS Data Science** — PUCIT, University of Punjab (2024–present)
+- **MS Data Science** — PUCIT, University of Punjab
   - Thesis: Spatiotemporal GNN for Sugarcane Pest Prediction using Satellite Remote Sensing
 - **BS Computer Science** — GC University, Lahore (2018–2022)
 - **18 Certifications** — AWS Cloud Practitioner, Angular (Coursera), Generative AI, and more
