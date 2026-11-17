@@ -50,9 +50,7 @@ I specialize at the intersection of **spatial data engineering** and **full-stac
 ```yaml
 Location     : 🇵🇰 Lahore, Pakistan
 Focus        : GIS Engineering · Satellite Remote Sensing · Geospatial AI
-Education    : MS Data Science — PUCIT, University of Punjab (2024–present)
-Company      : Agentic Solution (SMC-Private) Limited — SECP registered IT firm
-Upwork       : Top Rated Plus · 100% JSS · $50K+ · 2,538+ hrs · $55/hr
+Education    : MS Data Science — PUCIT, University of Punjab
 Portfolio    : https://muddasir.dev
 Contact      : writemuddasir@gmail.com
 ```
